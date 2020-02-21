@@ -1,0 +1,8 @@
+export const ADD_JOKES='ADD_JOKES'
+export const DELETE_JOKE='DELETE_JOKE'
+export const TOGGLE_FILTER='TOGGLE_FILTER'
+export const FETCH_JOKES='FETCH_JOKES'
+export const ADD_JOKE='ADD_JOKE'
+export const GET_COUNT='GET_COUNT'
+export const FETCH_CATEGORIES='FETCH_CATEGORIES'
+
